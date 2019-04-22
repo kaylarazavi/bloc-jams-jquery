@@ -1,7 +1,7 @@
 # bloc-jams-jquery
 A starter project for Bloc's jQuery-driven music player app
 
-BlocJams is a project in which I created a jQuery-driven music player web application where I accompolished the following:
+BlocJams is a project in which I created a jQuery-driven music player web application where I accomplished the following:
 
 ☑ use jQuery to insert album title and album art information into the DOM <p>
 ☑ use jQuery to add functionality to play and navigate between playing songs <p>
