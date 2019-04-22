@@ -9,3 +9,5 @@ BlocJams is a project in which I created a jQuery-driven music player web applic
 - [x] display time in minutes:seconds format
 - [x] use jQuery to enable volume slider
 - [x] use jQuery to enable play time slider
+
+[BlocJams is hosted on Netlify and can be viewed here](https://kaylaraz-blocjams.netlify.com/).
